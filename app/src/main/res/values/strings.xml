@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Alarms</string>
+    <string name="add">Añadir</string>
+    <string name="edit">Modificar</string>
+    <string name="remove">Eliminar</string>
+    <string name="addedAlarm">Alarma añadida</string>
+    <string name="editedAlarm">Alarma modificada</string>
+    <string name="removedAlarm">Alarma eliminada</string>
+    <string name="voicePermission">Se necesita permiso para poder grabar un audio y usarlo     para la alarma</string>
+    <string name="profiles">Perfiles</string>
+
 </resources>

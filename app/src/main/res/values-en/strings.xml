@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alarms</string>
+    <string name="profiles">Profiles</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="addedAlarm">Alarm added</string>
+    <string name="editedAlarm">Alarm edited</string>
+    <string name="removedAlarm">Alarm removed</string>
+    <string name="voicePermission">Permission is required to record and use audio</string>
+</resources>
